@@ -1,4 +1,4 @@
-# google-translate
+# google-translate-php
 This is a simple example demonstrating how to use the <b>stichoza/google-translate-php</b> library along with the Google Cloud Translate API to translate text from one language to another in a PHP application.<br>
 <h2>Getting Started</h2>
 <h3>1.Install Dependencies</h3>
