@@ -24,8 +24,8 @@ Update <b>transalation.php</b> with your Google Cloud credentials.
 <br>
 <h3>Important Notes</h3>
 -> Make sure to secure and keep your Google Cloud credentials confidential.<br>
-Handle errors appropriately in your production code.<br>
-This example uses <b>stichoza/google-translate-php</b> for simplicity. In a production environment, you may want to consider using the official Google Cloud client library for PHP.<br>
+-> Handle errors appropriately in your production code.<br>
+-> This example uses <b>stichoza/google-translate-php</b> for simplicity. In a production environment, you may want to consider using the official Google Cloud client library for PHP.<br>
 <h3>Contributions</h3>
 Feel free to contribute to this project by creating issues or pull requests. Your feedback and suggestions are welcome.
 
